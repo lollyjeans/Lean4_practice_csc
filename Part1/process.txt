@@ -1,0 +1,29 @@
+I studied the lecture slides for sections of Chapters 1 through 3 in order and solved selected exercises using Visual Studio Code and its extension for Lean 4.
+I skipped the following sections: 1.5 (Vibe Proving), 3.2 (Curry-Howard), 3.6 (Equality).
+I used AI, primarily Moogle.ai and Gemini, to search for topics such as the following:
+    1. recommendation of reference materials, online or offline, for Lean 4 and Mathlib,
+    
+    2.information on particular syntax or semantics, and example codes using such info,
+        a.Lambda abstraction and anonymous functions
+        b.Tactics: aesop, exact, dsimp, lia, omega, etc
+        c.Recommendation of tactics for proofs by induction
+        d.Polymorphism
+        e.How to deal with angles in degrees and radians
+        f.Differences between <>, [], {}, and double brackets
+        g.Differences between Sum-types, Product-types, and Pi-types
+        h.Conditionals
+        i.How to express complexity classes using relevant set theory notations
+        
+    3.for some of the example codes found from above, their equivalent codes in C or Java,
+    
+    4.characteristic codes that implement canonical algorithms such as HelloWorld, Merge sort, Proof by invariant, and Law of Syllogism,
+    
+    5.certain pre-existing theorems like sq_nonneg inside Mathlib and their example usage,
+    
+    6.meaning of some types of errors such as failing to synthesize instance of type class,
+    
+    7.built-in definitions such as inductive definitions, constructors, and eliminators for operators And and Or.
+
+
+
+
